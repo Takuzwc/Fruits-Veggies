@@ -1,0 +1,48 @@
+.fruit-card {
+  display: flex;
+  width: 120vh;
+  height: auto;
+  border: 3px solid #00bf63;
+  border-radius: 30px;
+  margin: 20px;
+  flex-direction: row;
+  background-color: #ffffff;
+}
+.fruit-image {
+  font-size: 3.5rem;
+  line-height: 1.2;
+  padding: 0rem 1rem 0rem 1.6rem;
+  transform: skewX(10deg);
+}
+.fruit-name {
+  color: #ffffff;
+  background-color: #00bf63;
+  width: 20rem;
+  height: 3rem;
+  font-size: 1.5rem;
+  align-content: center;
+  font-weight: 700;
+  padding: 10px;
+}
+.fruit-availability {
+  color: #00bf63;
+  background-color: #ffffff;
+  width: 20rem;
+  height: 3rem;
+  font-weight: 700;
+  font-size: 1.5rem;
+  align-content: center;
+  padding: 10px;
+}
+.view-product {
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #00bf63;
+  width: 8rem;
+  margin: 10px;
+  height: 3rem;
+  font-size: 1.5rem;
+  align-content: center;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+}

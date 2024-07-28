@@ -1,0 +1,107 @@
+[
+  {
+    "id": "f001",
+    "image": "🥭",
+    "productName": "Mangoes",
+    "price": "1.59",
+    "weight": "1.2",
+    "productDiscription": "Botanically, mango is a drupe, consisting of an outer skin, a fleshy edible portion, and a central stone enclosing a single seed – also called stone fruit, like a plum, cherry or peach. Where do mangos come from? Mangos were first grown in India over 5,000 years ago."
+  },
+  {
+    "id": "f002",
+    "image": "🍏",
+    "productName": "Apples",
+    "price": "0.99",
+    "weight": "0.5",
+    "productDiscription": "Apples are a type of fruit produced by the tree Malus domestica, known for its sweet, tart taste and green skin. Apples are classified as citrus fruits, and they belong to the family Rutaceae."
+  },
+  {
+    "id": "f003",
+    "image": "🍌",
+    "productName": "banana",
+    "price": "1.34",
+    "weight": "1.0",
+    "productDiscription": "Bananas are among the most important food crops on the planet. They come from a family of plants called Musa that are native to Southeast Asia and grown in many of the warmer areas of the world. Bananas are a healthy source of fiber, potassium, vitamin B6, vitamin C, and various antioxidants and phytonutrients."
+  },
+  {
+    "id": "f004",
+    "image": "🍍",
+    "productName": "Pineapples",
+    "price": "2.19",
+    "weight": "1.5",
+    "productDiscription": "Pineapples are a type of fruit belonging to the family Rosaceae. They are native to tropical regions of South America and Africa. Pineapples are known for their sweet, juicy taste, bright red skin, and sweet, slightly sour flesh."
+  },
+  {
+    "id": "f005",
+    "image": "🍒",
+    "productName": "Cherries",
+    "price": "1.79",
+    "weight": "0.8",
+    "productDiscription": "Cherries are a type of fruit belonging to the family Rosaceae. They are native to tropical regions of South America and Africa. Cherries are known for their sweet, juicy taste, bright red skin, and slightly sour flesh."
+  },
+  {
+    "id": "f006",
+    "image": "🍓",
+    "productName": "Strawberries",
+    "price": "1.29",
+    "weight": "0.6",
+    "productDiscription": "Strawberries are a type of fruit belonging to the family Rosaceae. They are native to tropical regions of South America and Africa. Strawberries are known for their sweet, juicy taste, bright red skin, and slightly sour flesh."
+  },
+  {
+    "id": "f007",
+    "image": " 🍇",
+    "productName": "Grapes",
+    "price": "1.99",
+    "weight": "1.2",
+    "productDiscription": "Grapes are a type of fruit belonging to the family Vitaceae. They are native to tropical regions of South America and Africa. Grapes are known for their sweet, juicy taste, bright red skin, and slightly sour flesh."
+  },
+  {
+    "id": "f008",
+    "image": "🍊",
+    "productName": "Oranges",
+    "price": "1.49",
+    "weight": "0.8",
+    "productDiscription": "Oranges are a type of fruit belonging to the family Citrus. They are native to tropical regions of South America and Africa. Oranges are known for their sweet, juicy taste, bright orange skin, and slightly sour flesh."
+  },
+  {
+    "id": "f009",
+    "image": "🍋",
+    "productName": "Lemons",
+    "price": "1.19",
+    "weight": "0.5",
+    "productDiscription": "Lemons are a type of fruit belonging to the family Citrus. They are native to tropical regions of South America and Africa. Lemons are known for their sweet, juicy taste, bright yellow skin, and slightly sour flesh."
+  },
+  {
+    "id": "f010",
+    "image": "🍉",
+    "productName": "Watermelons",
+    "price": "2.39",
+    "weight": "1.5",
+    "productDiscription": "Watermelons are a type of fruit belonging to the family Rosaceae. They are native to tropical regions of South America and Africa. Watermelons are known for their sweet, juicy taste, bright red skin, and slightly sour flesh."
+  },
+  {
+    "id": "f011",
+    "image": "🍐",
+    "productName": "Pears",
+    "price": "1.99",
+    "weight": "1.2",
+    "productDiscription": "Pears are a type of fruit belonging to the family Rosaceae. They are native to tropical regions of South America and Africa. Pears are known for their sweet, juicy taste, bright red skin, and slightly sour flesh."
+  },
+  {
+    "id": "f012",
+    "image": " 🌳",
+    "productName": "Plums",
+    "price": "1.79",
+    "weight": "0.8",
+    "productDiscription": "Plums are a type of fruit belonging to the family Rosaceae. They are native to tropical regions of South America and Africa. Plums are known for their sweet, juicy taste, bright red skin, and slightly sour flesh."
+  },
+  {
+    "id": "f013",
+    "image": "🍅",
+    "productName": "tomatoes",
+    "price": "2.22",
+    "weight": "1.00",
+    "availability": true,
+    "productDiscription": "Tomatoes is a popular product that includes a variety of products and products that include a variety of products and products."
+  }
+]

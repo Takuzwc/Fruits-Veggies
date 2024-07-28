@@ -1,0 +1,11 @@
+.parent-page {
+  display: flex;
+  background: linear-gradient(to right, #8c52ff, #ff914d);
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+}
+.logo {
+  width: 30rem;
+  height: auto;
+}

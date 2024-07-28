@@ -1,0 +1,66 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 18rem;
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+.top-box {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  height: 30px;
+}
+.tag-available {
+  background-color: #2ecc71;
+  color: white;
+  width: 4.5rem;
+  height: 4.5rem;
+  font-weight: 400;
+  border-radius: 50px;
+  /* text-align: center; */
+  padding: 0.5rem 0.7rem 0.3rem 0.2rem;
+  transform: rotate(-30deg);
+}
+.productImage {
+  font-size: 10rem;
+  text-align: center;
+}
+.btn-back {
+  display: flex;
+  margin-top: 1rem;
+  margin-left: 1rem;
+  background-color: #2ecc71;
+  width: 110px;
+  height: 30px;
+  color: white;
+  padding: 0.2rem;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+.btn-back a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1rem;
+  width: 100px;
+}
+.fruit-items {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 5rem;
+  justify-content: space-between;
+  align-content: center;
+}
+.fruit-items h4 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  width: 110px;
+  margin: 5px;
+}
+.card p {
+  font-size: 15px;
+  padding: 10px;
+}
