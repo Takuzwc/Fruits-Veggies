@@ -3,16 +3,16 @@ import './cards.css';
 import { useEffect, useState } from 'react';
 
 export default function Cards() {
-  const [dataObj, setBackendData] = useState([]);
+  const [data, setBackendData] = useState([]);
 
   useEffect(() => {
-    fetch('/api')
+    fetch('http://localhost:5000/api')
       .then((response) => response.json())
       .then((data) => setBackendData(data))
       .catch((error) => console.error('Error fetching data:', error));
   }, []);
 
-  const listCards = dataObj.map((el) => (
+  const listCards = data.map((el) => (
     <div key={el.id} className="card">
       <div className="top-box">
         <button className="btn-back">

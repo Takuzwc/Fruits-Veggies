@@ -10,6 +10,7 @@ const dataPath = path.join(__dirname, "data.json");
 const data = JSON.parse(fs.readFileSync(dataPath, "utf-8"));
 
 app.get("/api", (req, res) => {
+  console.log(data);
   res.json(data);
 });
 
@@ -25,7 +26,7 @@ app.get("/overview", (req, res) => {
 
 app.get("/product", (req, res) => {
   const { query } = req;
-  console.log(query);
+  //console.log(query);
   res.writeHead(200, { "Content-Type": "text/html" });
   res.end("<h3>Product details page</h3>");
 });

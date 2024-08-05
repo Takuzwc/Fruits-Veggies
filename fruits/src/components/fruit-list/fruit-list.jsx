@@ -3,16 +3,16 @@ import '/Users/Taku/Documents/git_Workspace/Fruits-veggies/fruits/src/components
 import { useEffect, useState } from 'react';
 
 export default function FruitList() {
-  const [dataObj, setBackendData] = useState([]);
+  const [data, setBackendData] = useState([]);
 
   useEffect(() => {
-    fetch('/api')
+    fetch('http://localhost:5000/api')
       .then((response) => response.json())
       .then((data) => setBackendData(data))
       .catch((error) => console.error('Error fetching data:', error));
   }, []);
 
-  const listFruits = dataObj.map((el) => (
+  const listFruits = data.map((el) => (
     <div key={el.id} className="fruit-card">
       <div alt={el.productName} className="fruit-image">
         {el.image}
